@@ -2,7 +2,7 @@
 
 Finds the best photo for you!
 
-[![coverage report](https://gitlab.ldv.ei.tum.de/python2017/b/badges/master/coverage.svg)](https://gitlab.ldv.ei.tum.de/python2017/b/commits/master)
+## Was developed for a project course in Deep Learning at the Technical Unviersity of Munich. 
 
 ---
 
