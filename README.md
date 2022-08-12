@@ -3,7 +3,7 @@
 Finds the best photo for you!
 
 ## Was developed for a project course in Deep Learning at the Technical Unviersity of Munich. 
-
+#### MISSING: Only SVM is currently in the repository. The other used algorithms need to be added in future commits
 ---
 
 ## Development setup and tips
