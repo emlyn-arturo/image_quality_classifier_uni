@@ -1,0 +1,15 @@
+*.pyc
+*.swp
+*.egg-info
+__pycache__
+.coverage
+cover
+virtualenv
+.venv
+.idea
+.DS_Store
+**/uploads/*
+node_modules
+npm-debug.log
+/dist
+/build

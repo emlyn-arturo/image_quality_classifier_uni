@@ -1,0 +1,10 @@
+image: python:3.6
+
+stages:
+  - test
+
+unit_tests:
+  stage: test
+  script:
+    - pip3 install -e . -r requirements.txt
+    - nosetests -v --with-coverage --cover-package=b

@@ -1,0 +1,3 @@
+[submodule "InstaLooter"]
+  path = database/InstaLooter
+  url = https://github.com/althonos/instalooter.git
